@@ -1,3 +1,3 @@
-利用React的Hooks写一个简易YouTube视频搜索网页。
+Develop a simple YouTube search webpage using React Hooks:
 
-成品：https://react-projects-practice-ytv-hooks.netlify.app/
+Webpage：https://react-projects-practice-ytv-hooks.netlify.app/
